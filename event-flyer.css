@@ -18,14 +18,16 @@ body {
   
   hr {
     margin: 32px;
+    height: 2px;
+    background-color: chocolate;
+  }
+
+  .section-container {
+    display: flex;
+    justify-content: center;
+    gap: 150px;
   }
   
-  .section-1 {
-    display: inline-block;
+  footer {
+    text-align: center;
   }
-  
-  .section-2 {
-    display: inline-block;
-  }
-  
-  

@@ -1,6 +1,7 @@
 body {
   font-family: Arial, sans-serif;
   background-color: #fef1f0;
+  padding: 20px;
 }
 
 .blog-post-card {
@@ -9,7 +10,7 @@ body {
   border: 1px dashed black;
   width: 300px;
   padding-bottom: 40px;
-  margin: 150px auto;
+  margin: auto;
   text-align: center;
 }
 
