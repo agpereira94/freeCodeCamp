@@ -1,7 +1,11 @@
 body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
   font-family: Arial, sans-serif;
   background-color: #fef1f0;
-  padding: 20px;
+  margin: 0
 }
 
 .blog-post-card {
@@ -10,7 +14,6 @@ body {
   border: 1px dashed black;
   width: 300px;
   padding-bottom: 40px;
-  margin: auto;
   text-align: center;
 }
 
